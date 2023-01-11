@@ -6,5 +6,5 @@ When Steam Input is enabled regular ABXY prompts are shown instead of the expect
 
 ## Installation
 
-1. Install the x86 version of [BepInEx 6](https://docs.bepinex.dev/master/articles/user_guide/installation/unity_mono.html)
+1. Install the x86 version of [BepInEx 5](https://docs.bepinex.dev/articles/user_guide/installation/index.html)
 2. Drag and drop `PlaystationPrompts.dll` to the BepInEx plugins directory
